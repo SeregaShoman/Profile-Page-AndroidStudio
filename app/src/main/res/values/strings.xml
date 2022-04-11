@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="text_name">Mmr: 5600</string>
+    <string name="text_mmr">Mmr:5600</string>
+    <string name="text_Age">Age:20</string>
+    <string name="text_name2">Name: Serega</string>
+    <string name="text_Photo">Photo</string>
+    <string name="text_Projects">Projects</string>
+    <string name="text_achievement">achievement</string>
+</resources>
